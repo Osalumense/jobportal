@@ -4,9 +4,7 @@
   include_once "includes/header.php";
 
 ?>
-<!-- <div class="jumbotron mt-n5 p-n3" style="height: 5vh;">
- </div> -->
-    <div class="container mb-5">
+  <!-- <div class="container mb-5">
     </div>
     <div class="preloader" style="position: absolute; top: 50%; left: 50%; margin: -25px 0 0 -25px;">
             <h5>Loading...</h5>
@@ -55,7 +53,7 @@
             </div>
         </div>
     </div>
-  </div>
+  </div> -->
 
 <?php
   include_once 'includes/footer.php';
