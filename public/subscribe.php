@@ -1,17 +1,16 @@
 <?php
-$title='Job application';
-include "includes/db_conn.php";
-include_once "includes/header.php";
+$title='Subscribe to job updates';
+include_once "../public/includes/header.php";
 ?>
     
-
-    <div class="container mx-auto mt-4" style="background-color:white">
+<section>
+    <div class="container mx-auto mt-4 shadow-lg rounded-lg">
         <h5 class="text-center py-3 rounded shadow" >SUBSCRIBE TO JOB UPDATES</h5>
         <div class="row">
         
-            <div class="col-md-3 mt-4 col-sm-6 ">   
-                    <label for="department" class="text-muted font-weight-bold">Preferred department:</label>
-                            <select name="department" id="department" class="form-control form-control-sm">
+            <div class="col-md-6 mt-4 col-sm-6 ">   
+                    <label for="department" class="font-weight-bold">Preferred department:</label>
+                            <select name="department" id="department" class="form-select mb-3">
                                 <option value="">Select preferred department</option>                   
                                 <?php
                                     $sql="SELECT * FROM departments";
@@ -26,9 +25,9 @@ include_once "includes/header.php";
             
         </div>
         <div class="row">
-            <div class="col-md-3 col-sm-6 mt-4 form-group">
-                        <label for="location" class="text-muted font-weight-bold">Preferred location:</label>
-                        <select name="location" id="location" class="form-control form-control-sm">
+            <div class="col-md-6 col-sm-6 mt-4">
+                        <label for="location" class="font-weight-bold">Preferred location:</label>
+                        <select name="location" id="location" class="form-select">
                                 <option value="">Select preferred location</option>
                                 <option value="all">Any location</option>                        
                                 <?php
@@ -45,21 +44,19 @@ include_once "includes/header.php";
 
         <div class="row">
                 <div class="col-md-6 col-sm-6 my-3 form-group">
-                    <label for="location" class="text-muted font-weight-bold">Email:</label>
+                    <label for="location" class="font-weight-bold">Email:</label>
                     <input type="email" class="form-control" placeholder="Enter email here" id="mail">
                     <div id="mail-error" class="text-danger"></div>
                 </div>
         </div>
-        <div class="">
-              <button class="btn btn-info my-4" id="subscribe">Subscribe</button>
+        <div class="col-md-6 col-sm-6">
+            <div class="d-grid gap-2">
+                <button class="btn btn-info my-4" id="subscribe">Subscribe</button>
+            </div>
         </div>
     </div>
+</section>
 
-
-
-<?php
-  include 'includes/footer.php';
-?>
 
 <script>
     var ajaxurl = "pagecontrol.php";

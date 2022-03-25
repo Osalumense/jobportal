@@ -56,7 +56,7 @@
             <ul class="navbar-nav ms-auto pt-2 pt-lg-0">
               <li class="nav-item px-2"><a class="nav-link fw-medium active" aria-current="page" href="index.php">Home</a></li>
               <li class="nav-item px-2"><a class="nav-link fw-medium" href="jobs.php">Jobs</a></li>
-              <li class="nav-item px-2"><a class="nav-link fw-medium" href="#">Career tips</a></li>
+              <li class="nav-item px-2"><a class="nav-link fw-medium" href="subscribe.php">Subscribe</a></li>
             </ul>
             <form class="ps-lg-5">
               <a class="btn btn-lg btn-primary rounded-pill bg-gradient order-0" href="account/login.php" >Sign In</a>
