@@ -17,14 +17,14 @@
         <div class="container">
           <div class="row align-items-center min-vh-75 min-vh-md-100">
             <div class="col-md-7 col-lg-6 py-6 text-sm-start text-center">
-              <h1 class="mt-6 mb-sm-4 display-2 fw-semi-bold lh-sm fs-4 fs-lg-6 fs-xxl-8">Find your job better <br class="d-block d-lg-none d-xl-block" />and faster</h1>
-              <p class="mb-4 fs-1">Find your best job better and faster with Jobportal</p>
+              <h1 class="mt-6 mb-sm-4 display-2 fw-semi-bold lh-sm fs-4 fs-lg-6 fs-xxl-8">Work in the Company of your dreams </h1>
+              <p class="mb-4 fs-1">Enjoy great benefits working with us</p>
               <div class="pt-3">
-                <form>
+                <!-- <form>
                   <div class="input-group w-xl-75 w-xxl-50 d-flex flex-end-center">
                     <input class="form-control rounded-pill shadow-lg border-0" id="formGroupExampleInput" type="text" placeholder="Seacrh by skill, company and job" /><img class="input-box-icon me-2" src="assets/img/illustrations/search.png" width="30" alt="" />
                   </div>
-                </form>
+                </form> -->
               </div>
             </div>
           </div>
@@ -40,7 +40,7 @@
             <div class="col-md-5 order-md-0 text-center text-md-start"><img class="img-fluid mb-4" src="assets/img/illustrations/passion.png" width="450" alt="" /></div>
             <div class="col-md-5 text-center text-md-start">
               <h6 class="fw-bold fs-2 fs-lg-3 display-3 lh-sm">Find your passion and<br />achieve success</h6>
-              <p class="my-4 pe-xl-8"> find a job that suits your interests and talents. A high salary is not the top priority. Most importantly,You can work according to your heart's desire.</p>
+              <p class="my-4 pe-xl-8"> Apply to one of the many open roles in our organization. Most importantly,You can work according to your heart's desire.</p>
             </div>
           </div>
         </div>
@@ -82,10 +82,9 @@
       <!-- ============================================-->
 
 
-      <section class="py-5">
+      <!-- <section class="py-5">
         <div class="bg-holder d-none d-sm-block" style="background-image:url(assets/img/illustrations/category-bg.png);background-position:right top;background-size:200px 320px;">
         </div>
-        <!--/.bg-holder-->
 
         <div class="container">
           <div class="row justify-content-center">
@@ -161,12 +160,12 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
 
       <!-- ============================================-->
       <!-- <section> begin ============================-->
-      <section class="py-8">
+      <!-- <section class="py-8">
 
         <div class="container">
           <div class="row flex-center">
@@ -177,9 +176,8 @@
             </div>
           </div>
         </div>
-        <!-- end of .container-->
 
-      </section>
+      </section> -->
       <!-- <section> close ============================-->
       <!-- ============================================-->
 
@@ -188,12 +186,14 @@
         <div class="container">
           <div class="row align-items-center">
             <div class="col-12 text-center">
-              <h6 class="fw-bold fs-3 fs-lg-5 lh-sm">Come on, join with us !</h6>
-              <p>Create an account and refer your friend </p>
+              <h6 class="fw-bold fs-3 fs-lg-5 lh-sm">Come on, join us !</h6>
+              <p>Create an account and apply today </p>
             </div>
           </div>
         </div>
       </section>
+
+      
       <section class="py-8">
         <div class="container-lg">
           <div class="row flex-center">

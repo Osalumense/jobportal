@@ -81,10 +81,14 @@
           </div>
           <div class="row justify-content-center">
             <div class="col-auto mb-2">
-              <p class="mb-0 fs--1 text-white my-2 text-center">&copy; This template is made with&nbsp;
-                <svg class="bi bi-suit-heart-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#1F3A63" viewBox="0 0 16 16">
-                  <path d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1z"></path>
-                </svg>&nbsp;by&nbsp;<a class="text-white" href="https://themewagon.com/" target="_blank">ThemeWagon </a>
+              <p class="mb-0 fs--1 text-white my-2 text-center">&copy; 
+                <span id="d8"></span>
+              <script>
+                const d = new Date();
+                document.getElementById("d8").innerHTML = d.getFullYear();
+              </script>  
+              &nbsp;
+              Company Jobportal
               </p>
             </div>
           </div>
