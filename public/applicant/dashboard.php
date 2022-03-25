@@ -68,7 +68,7 @@ $uid = $user['uid'];
                                     $result = $stmt->fetchAll(PDO::FETCH_ASSOC);
                                     $data = '';
                                     foreach($result as $app_rec){
-                                        $stat=$app_rec['shortlist_status'];
+                                        $stat=$app_rec['status'];
                                         $appdate=date_format(date_create($app_rec['application_date']), "d M, Y");
 
                                         $data .= '<div class="card-text rounded m-3 p-1" style="border: 1px solid #c0c0c0">

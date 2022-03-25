@@ -62,8 +62,8 @@
               <div class="row flex-center">
                 <div class="col-md-5 order-md-1 text-center text-md-end"><img class="img-fluid mb-4" src="assets/img/illustrations/jobs.png" width="450" alt="" /></div>
                 <div class="col-md-5 text-center text-md-start">
-                  <h6 class="fw-bold fs-2 fs-lg-3 display-3 lh-sm">Million of jobs, finds <br> the one thats rights for you</h6>
-                  <p class="my-4 pe-xl-8">Get your blood tests delivered at home collect a sample from the news your blood tests.</p>
+                  <h6 class="fw-bold fs-2 fs-lg-3 display-3 lh-sm">Come join a community of great people building great stuffs and growing together</h6>
+                  <p class="my-4 pe-xl-8">Apply to one of the many open roles in our organization.</p>
                 </div>
               </div>
             </div>
@@ -193,7 +193,7 @@
         </div>
       </section>
 
-      
+
       <section class="py-8">
         <div class="container-lg">
           <div class="row flex-center">
@@ -241,7 +241,7 @@
                                 </li>
                               </ul>
                             </div>
-                            <p class="card-text text-center text-1000 px-4">I love Jobest, easy platform to use,fantasic staff and nothing but great results!</p>
+                            <p class="card-text text-center text-1000 px-4">I love working here, great people and a great work culture, not forgetting many benefits too!</p>
                           </div>
                         </div>
                       </div>
@@ -278,7 +278,7 @@
                                 </li>
                               </ul>
                             </div>
-                            <p class="card-text text-center text-1000 px-4">I love Jobest, easy platform to use,fantasic staff and nothing but great results!</p>
+                            <p class="card-text text-center text-1000 px-4">I love working here, great people and a great work culture, not forgetting many benefits too</p>
                           </div>
                         </div>
                       </div>
@@ -315,7 +315,7 @@
                                 </li>
                               </ul>
                             </div>
-                            <p class="card-text text-center text-1000 px-4">I love Jobest, easy platform to use,fantasic staff and nothing but great results!</p>
+                            <p class="card-text text-center text-1000 px-4">I love working here, great people and a great work culture, not forgetting many benefits too</p>
                           </div>
                         </div>
                       </div>
@@ -356,7 +356,7 @@
                                 </li>
                               </ul>
                             </div>
-                            <p class="card-text text-center text-1000 px-4">I love Jobest, easy platform to use,fantasic staff and nothing but great results!</p>
+                            <p class="card-text text-center text-1000 px-4">I love working here, great people and a great work culture, not forgetting many benefits too</p>
                           </div>
                         </div>
                       </div>
@@ -393,7 +393,7 @@
                                 </li>
                               </ul>
                             </div>
-                            <p class="card-text text-center text-1000 px-4">I love Jobest, easy platform to use,fantasic staff and nothing but great results!</p>
+                            <p class="card-text text-center text-1000 px-4">I love working here, great people and a great work culture, not forgetting many benefits too</p>
                           </div>
                         </div>
                       </div>
@@ -471,7 +471,7 @@
                                 </li>
                               </ul>
                             </div>
-                            <p class="card-text text-center text-1000 px-4">I love Jobest, easy platform to use,fantasic staff and nothing but great results!</p>
+                            <p class="card-text text-center text-1000 px-4">I love working here, great people and a great work culture, not forgetting many benefits too</p>
                           </div>
                         </div>
                       </div>
@@ -508,7 +508,7 @@
                                 </li>
                               </ul>
                             </div>
-                            <p class="card-text text-center text-1000 px-4">I love Jobest, easy platform to use,fantasic staff and nothing but great results!</p>
+                            <p class="card-text text-center text-1000 px-4">I love working here, great people and a great work culture, not forgetting many benefits too!</p>
                           </div>
                         </div>
                       </div>
@@ -545,7 +545,7 @@
                                 </li>
                               </ul>
                             </div>
-                            <p class="card-text text-center text-1000 px-4">I love Jobest, easy platform to use,fantasic staff and nothing but great results!</p>
+                            <p class="card-text text-center text-1000 px-4">I love working here, great people and a great work culture, not forgetting many benefits too!</p>
                           </div>
                         </div>
                       </div>

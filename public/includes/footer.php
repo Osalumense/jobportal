@@ -1,7 +1,7 @@
 <div class="container">
-          <div class="row flex-center py-8">
+          <div class="row d-flex align-items-center py-8">
             <div class="col-lg-6 mb-4 text-center">
-              <h1 class="text-white">Get started now</h1>
+              <h3 class="text-white">Get latest job updates delivered right to your mail</h3>
             </div>
             <div class="col-lg-6 d-flex justify-content-lg-end justify-content-center">
               <form class="row row-cols-lg-auto g-0 align-items-center">

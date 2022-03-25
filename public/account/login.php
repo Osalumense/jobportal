@@ -30,6 +30,7 @@ if(isset($_SESSION['user'])){
             ?>
             <div class="col-lg-4 mx-auto rounded" id="login-box"  style="background: white">
                 <h2 class="text-center mt-2">Login</h2>
+                <h6 class="text-center my-2">Welcome back</h6>
                 <!-- <form action="" method="post" role="form" class="p-2" id="login-form">
                     <div class="form-group">
                     <label for="email">Email:</label>
