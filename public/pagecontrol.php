@@ -32,7 +32,7 @@ include "includes/db_conn.php";
         $result = $conn->query($sql);
         $searchrow = $result->fetchAll();
         foreach($searchrow as $row){
-            $tabval = '<div class="tab-pane fade container show active" id="'.$row["vacancy_id"].'" role="tabpanel">
+            $tabval = '<div class="tab-pane fade container show active shadow-lg p-3" id="'.$row["vacancy_id"].'" role="tabpanel">
                     <div class="row">
                         <!--<div class="col-md-4 col-sm-6">
                             <h5 class="">Vacancy Details:</h5>

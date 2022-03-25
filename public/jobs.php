@@ -27,8 +27,9 @@
                 <div class="card">
                     
                     <div class="card-body mx-auto">
+
                     <h4 class="card-title">Categories and Vacancies</h4><br>
-                        <div class="mx-auto" id="vacancies">
+                        <div class="mx-auto shadow-lg p-3" id="vacancies">
                             
                         </div>  
                         <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
@@ -40,7 +41,7 @@
             <div class="col-md m-2"> 
                 <div class="card">
                     <div class="card-body">
-                        <div id="vacancy-details">
+                        <div class="shadow-lg p-3" id="vacancy-details">
                             <h4>Vacancy details</h4>
                             <h2 class="lead">Select a vacancy at the left hand side of the screen to view details here</h2>
                         </div>
