@@ -28,7 +28,7 @@ if($dataname=='registeruser'){
 
         if($row['email']==$usermail){
             echo '<div class="alert alert-danger">
-            <h6>Email already registered. <a href="login.php">click here</a> to login or <a href="forgotpass.php">click here</a> to reset your password</h6>
+            <h6>Email already registered. <a class="text-info" href="login.php">click here</a> to login or <a class="text-info" href="forgotpass.php">click here</a> to reset your password </h6>
         </div>';
         }
         else{

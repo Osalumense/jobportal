@@ -1,5 +1,5 @@
 <?php
-  $title='Job application';
+  $title='Job application - Index';
   include_once "../public/includes/header.php";
 
 ?>

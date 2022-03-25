@@ -1,17 +1,11 @@
 <?php
-    $title = 'jobs';
-    include 'includes/header.php';
+require_once '../includes/applicant_header.php';
 ?>
-<!DOCTYPE html>
-
-<html lang="en">
-
     <script>
-        var ajaxurl = "pagecontrol.php";
         $(document).ready(function(){
             $.ajax({
                 type:"POST",
-                url:ajaxurl,
+                url:"applicant_control.php",
                 dataType:"JSON",
                 data:{dataname:'showvacancies'},
                 success:function(jobs){
@@ -21,7 +15,7 @@
         });
     </script>
 
-    <div class="container-responsive">
+     <div class="container-responsive">
         <div class="row">
             <div class="col-md-3 m-2"> 
                 <div class="card">
@@ -32,7 +26,7 @@
                             
                         </div>  
                         <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                        </div>                  
+                            </div>                  
                     </div>
                 </div>
             </div>
@@ -40,8 +34,8 @@
             <div class="col-md m-2"> 
                 <div class="card">
                     <div class="card-body">
+                    <h4 class="card-title">Vacancy details</h4>
                         <div id="vacancy-details">
-                            <h4>Vacancy details</h4>
                             <h2 class="lead">Select a vacancy at the left hand side of the screen to view details here</h2>
                         </div>
                     </div>
@@ -53,14 +47,14 @@
 </body>
 </html>
 <script>
-    var ajaxurl = "pagecontrol.php";
     $(document).on("click", ".links", function(){
         var id = $(this).attr("id");
+        var uid = '<?=$user['uid']?>';
         $.ajax({
             method: "POST",
-            url:ajaxurl,
+            url:"applicant_control.php",
             dataType: "JSON",
-            data:{id:id,dataname:'getempdet'},
+            data:{id:id,uid:uid,dataname:'getempdet'},
             success:function(navdetails){
                $("#vacancy-details").html(navdetails.tabval);
         }
