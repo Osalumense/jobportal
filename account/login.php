@@ -19,7 +19,6 @@ if(isset($_SESSION['user'])){
         </div>
         
         
-        <!-- Begin login form -->
         <div class="row">
             <?php
                 if(isset($_GET['redirect'])){
@@ -56,7 +55,8 @@ if(isset($_SESSION['user'])){
                 </form>
             </div>
         </div>
-        <!-- end of login form -->
+
+        
     </div>
 
 <?php

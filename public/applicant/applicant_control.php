@@ -26,7 +26,7 @@ if($dataname=='getempdet'){
                                 <h5><span class="font-weight-lighter">Position: </span>'.ucfirst($row["position"]).'</h5>
                             </div>
                             <div class="col-md-3 col-sm">
-                                <a href="eligibility_test.php?uid='.$uid.'&vac='.$row["vacancy_id"].'"><button class="btn btn-sm btn-outline-info float-right" id="show_job">Apply Now</button></a>
+                                <a href="apply.php?uid='.$uid.'&vac='.$row["vacancy_id"].'"><button class="btn btn-sm btn-outline-info float-right" id="show_job">Apply Now</button></a>
                             </div>
                             
                         </div>
@@ -90,7 +90,7 @@ if($dataname=='getempdet'){
                             </div>
                         </div>
                         <div class="row justify-content-end">
-                            <a href="eligibility_test.php?uid='.$uid.'&vac='.$row["vacancy_id"].'"><button class="btn btn-sm btn-outline-info my-3" id="show_job">Apply Now</button></a>
+                            <a href="apply.php?uid='.$uid.'&vac='.$row["vacancy_id"].'"><button class="btn btn-sm btn-outline-info my-3" id="show_job">Apply Now</button></a>
                         </div>                  
                     <hr>
                 </div>';
