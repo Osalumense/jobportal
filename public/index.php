@@ -8,11 +8,10 @@
       <section class="py-0" id="home">
         <div class="bg-holder d-none d-sm-block" style="background-image:url(assets/img/illustrations/hero-bg.png);background-position:right top;background-size:contain;">
         </div>
-        <!--/.bg-holder-->
 
         <div class="bg-holder d-sm-none" style="background-image:url(assets/img/illustrations/hero-bg.png);background-position:right top;background-size:contain;">
         </div>
-        <!--/.bg-holder-->
+     
 
         <div class="container">
           <div class="row align-items-center min-vh-75 min-vh-md-100">
@@ -20,11 +19,6 @@
               <h1 class="mt-6 mb-sm-4 display-2 fw-semi-bold lh-sm fs-4 fs-lg-6 fs-xxl-8">Work in the Company of your dreams </h1>
               <p class="mb-4 fs-1">Enjoy great benefits working with us</p>
               <div class="pt-3">
-                <!-- <form>
-                  <div class="input-group w-xl-75 w-xxl-50 d-flex flex-end-center">
-                    <input class="form-control rounded-pill shadow-lg border-0" id="formGroupExampleInput" type="text" placeholder="Seacrh by skill, company and job" /><img class="input-box-icon me-2" src="assets/img/illustrations/search.png" width="30" alt="" />
-                  </div>
-                </form> -->
               </div>
             </div>
           </div>
