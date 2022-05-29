@@ -35,20 +35,14 @@
                 <li class="mb-3"><a class="text-light text-decoration-none" href="#!">Events</a></li>
                 <li class="mb-3"><a class="text-light text-decoration-none" href="#!">Blog</a></li>
                 <li class="mb-3"><a class="text-light text-decoration-none" href="#!">Forum</a></li>
-                <li class="mb-3"><a class="text-light text-decoration-none" href="#!">Podcast</a></li>
-                <li class="mb-3"><a class="text-light text-decoration-none" href="#!">Affiliates</a></li>
-                <li class="mb-3"><a class="text-light text-decoration-none" href="#!">Invite a Friend</a></li>
               </ul>
             </div>
             <div class="col-6 col-sm-4 col-lg-auto mb-3">
               <h5 class="mb-5 text-white">ABOUT </h5>
               <ul class="list-unstyled mb-md-4 mb-lg-0">
                 <li class="mb-3"><a class="text-light text-decoration-none" href="#!">About Us</a></li>
-                <li class="mb-3"><a class="text-light text-decoration-none" href="#!">Partnerships</a></li>
-                <li class="mb-3"><a class="text-light text-decoration-none" href="#!">Finance Experts</a></li>
-                <li class="mb-3"><a class="text-light text-decoration-none" href="#!">Project Management</a></li>
-                <li class="mb-3"><a class="text-light text-decoration-none" href="#!">Product Manager</a></li>
-                <li class="mb-3"><a class="text-light text-decoration-none" href="#!">The Team</a></li>
+                <li class="mb-3"><a class="text-light text-decoration-none" href="#!">Conatct</a></li>
+                <li class="mb-3"><a class="text-light text-decoration-none" href="#!">Our Departments</a></li>
               </ul>
             </div>
             <div class="col-6 col-sm-4 col-lg-auto mb-3">
